@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: com.techathon
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Mukesh.Rathore
+Implementation-Vendor-Id: com.techathon
+Build-Jdk: 1.8.0_66
+Implementation-URL: http://projects.spring.io/spring-boot/com.techatho
+ n/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
